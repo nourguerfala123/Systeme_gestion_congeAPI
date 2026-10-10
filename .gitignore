@@ -1,0 +1,12 @@
+
+# Fichiers générés par .NET
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.csproj.user
+
+# Fichiers locaux et secrets
+.env
+.env.*
